@@ -10,7 +10,7 @@ I am a software engineer experienced in designing and building distributed, scal
 
 ## 👨‍💻 Professional Skills
 
--  **Language:**  PHP, Flutter, Javascript, Python
+-  **Language:**  PHP, Flutter, Python, Javascript
 -  **Queue:**  RabbitMQ, Kafka
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes, Jenkins, Redis
 -  **Logging:**  Prometheus, Datadog, Newrelic
